@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "857837292601",
+    "project_id": "proyek-uas-f2945",
+    "storage_bucket": "proyek-uas-f2945.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857837292601:android:ee9ed0ced30d0b863291e8",
+        "android_client_info": {
+          "package_name": "com.example.firebase_database"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwv-h1Hj1GVfsUEtZytdA-1pdZL7MoxXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
